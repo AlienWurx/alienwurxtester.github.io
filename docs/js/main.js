@@ -1,0 +1,1 @@
+document.getElementById("title").innerHTML = 'A Different Alien Wurx Title!!';
